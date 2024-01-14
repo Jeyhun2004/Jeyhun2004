@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jeyhun2004
-- 👀 I’m interested in Mobile development
-- 🌱 I’m currently learning React Native
-- 💞️ I'm looking to collaborate on mobile app development projects using React Native.
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning React.js
+- 💞️ I'm looking to collaborate on Web development projects using React.js.
 - 📫 How to reach me jeyhuntayjykow394@gmail.com
 
 <!---
